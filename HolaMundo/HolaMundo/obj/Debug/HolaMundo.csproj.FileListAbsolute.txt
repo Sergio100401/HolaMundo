@@ -1,0 +1,9 @@
+C:\Users\sergi\source\repos\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
+C:\Users\sergi\source\repos\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe
+C:\Users\sergi\source\repos\HolaMundo\HolaMundo\bin\Debug\HolaMundo.pdb
+C:\Users\sergi\source\repos\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.CodeAnalysisLog.xml
+C:\Users\sergi\source\repos\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.lastcodeanalysissucceeded
+C:\Users\sergi\source\repos\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csprojResolveAssemblyReference.cache
+C:\Users\sergi\source\repos\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
+C:\Users\sergi\source\repos\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb
